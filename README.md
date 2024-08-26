@@ -1,6 +1,6 @@
 # ¡Hola, soy Mauricio! 👋
 
-### Desarrollador Fullstack | Ingeniero en Sistemas | Apasionado por la Tecnología
+### Desarrollador Fullstack | Estudiante de Ingeniería en Sistemas | Apasionado por la Tecnología
 
 Soy un desarrollador apasionado con experiencia en tecnologías como Laravel y React. Me encanta crear soluciones eficientes y escalables, y siempre estoy en busca de nuevos retos y oportunidades para aprender.
 
@@ -12,9 +12,8 @@ Soy un desarrollador apasionado con experiencia en tecnologías como Laravel y R
 
 ### 🚀 Proyectos Destacados
 
-- **[Proyecto 1](https://github.com/tu-usuario/proyecto-1):** Una aplicación de gestión de stock desarrollada en C# con SQLite.
-- **[Proyecto 2](https://github.com/tu-usuario/proyecto-2):** Plataforma de pedidos con React Native y Supabase.
-- **[Proyecto 3](https://github.com/tu-usuario/proyecto-3):** Sistema de facturación en Laravel con generación de PDF asincrónica.
+- **[Proyecto 1](https://github.com/MauricioTeruel98/creacionestries):** Sistema de facturación en Laravel con generación de PDF asincrónica.
+- **[Proyecto 2](https://github.com/MauricioTeruel98):** Plataforma de pedidos con React Native y Supabase.
 
 ### 📊 Estadísticas de GitHub
 
