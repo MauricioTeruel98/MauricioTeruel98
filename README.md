@@ -22,7 +22,7 @@ Soy un desarrollador apasionado con experiencia en tecnologías como Laravel y R
 
 ### 📫 Cómo contactarme
 
-- LinkedIn: [[linkedin.com/in/mauricio-teruel](https://www.linkedin.com/in/mauricio-teruel/)]
+- LinkedIn: [linkedin.com/in/mauricio-teruel](https://www.linkedin.com/in/mauricio-teruel/)
 - Email: mauricioteruel98@gmail.com
 
 ### 🌱 Un poco más sobre mí
