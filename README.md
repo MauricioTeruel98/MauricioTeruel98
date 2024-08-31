@@ -10,10 +10,10 @@ Soy un desarrollador apasionado con experiencia en tecnologías como Laravel y R
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🚀 Proyectos Destacados
+[### 🚀 Proyectos Destacados
 
 - **[Proyecto 1](https://github.com/MauricioTeruel98/creacionestries):** Sistema de facturación en Laravel con generación de PDF asincrónica.
-- **[Proyecto 2](https://github.com/MauricioTeruel98):** Plataforma de pedidos con React Native y Supabase.
+- **[Proyecto 2](https://github.com/MauricioTeruel98):** Plataforma de pedidos con React Native y Supabase.](url)
 
 ### 📊 Estadísticas de GitHub
 
