@@ -6,11 +6,12 @@ Soy un desarrollador apasionado con experiencia en tecnologías como Laravel y R
 
 ### 🛠️ Tecnologías y Herramientas
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-4479A1?style=flat&logo=javascript&logoColor=yellow)
-![Typescript](https://img.shields.io/badge/-Typescript-4479A1?style=flat&logo=typescript&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
 
 ### 🚀 Proyectos Destacados
 
